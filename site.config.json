@@ -1,7 +1,8 @@
 {
-  "name": "Jamstacks starter",
-  "description": "A neutral Next.js foundation for Jamstacks websites.",
-  "domain": "",
+  "name": "Lightbulb Tutoring",
+  "description": "Small-group and one-to-one tutoring from Prep to VCE in Melbourne's CBD, with term timetables, friendly tutors and a free learning check.",
+  "domain": "next-tutoring-bright.jamstacks.net",
+  "timeZone": "Australia/Melbourne",
   "jamstacks": {
     "siteId": "",
     "cdnUrl": "https://cdn.jamstacks.net"

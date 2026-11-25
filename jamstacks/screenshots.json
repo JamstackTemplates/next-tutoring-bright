@@ -1,0 +1,22 @@
+{
+  "templateId": "next-tutoring-bright",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "fullPage": false,
+  "captures": [
+    {
+      "mode": "light",
+      "sha256": "7faa675087bad059ca198b20de933339fecf339cae17c0c9c04402d6724f8740",
+      "file": "jamstacks/home-light.jpg",
+      "bytes": 194139
+    },
+    {
+      "mode": "dark",
+      "sha256": "7901b9cb197fa9c8bc458f9d7836d75eb68a9175b68bba9f43bfd69355c0a908",
+      "file": "jamstacks/home-dark.jpg",
+      "bytes": 178434
+    }
+  ]
+}
